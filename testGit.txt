@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 hello from test file to test git commands 
 Update from master branch 
 new change to show branches work in github
->>>>>>> sample
